@@ -1,3 +1,5 @@
+// Preparar datos de prueba  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 @IsTest
 public class dtmAjustesSkuQliTest {
     
