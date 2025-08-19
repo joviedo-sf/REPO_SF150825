@@ -1,3 +1,5 @@
+// Implement this interface method   rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr  XXXX  1
+
 @SuppressWarnings('PMD.AvoidGlobalModifier')
 global class dtmContratacionNmp {
     global class dtmContratacionNmpResponse {
